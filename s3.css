@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+      <link rel="stylesheet" href="./s3.css" />
+  </head>
+  <body>
+    <header>
+        <div class="container  ">
+            <div class="content">
+          <img src="./black.png"class="logo"></img>
+            <ul>
+                <li>Home</li>
+                <li>Who We Are</li>
+                <li>Impacts</li>
+                <li>Portfolio</li>
+                <li>Contact</li>
+            </ul>
+            <button class="log" >Login</button>
+        </div>
+    </div>
+        <section class="home-cover">
+          <img src="./cover2.png" alt="" />
+          <small>AGRICULTURE FOR EVERYONE</small>
+          <div class="overlay"> </div>
+        </section>
+        <section class="container ">
+          <div class="head">
+            <p>An online agricultural platform aimed <br>
+                at teaching best agricultural <br>
+                practices to farmers everywhere.</p> 
+            <button class="y">Sign Up</button > 
+              <button class="w">play Watch our tutorials</button>
+            </div>
+            </section> 
+    </header>
+    <section class="back">
+    <section class="container  ">
+      <div class="info">
+      <h2>ABOUT ZOJIE'S FARM</h2>
+      <p>We are constantly in search for innovative solutions that makes the farmers lives easier while increasing their opportunities. 
+        We achieve these in various ways - reducing their production costs, increasing their harvest volumes and providing a better, 
+        bigger and more sustainable market for them.</p>
+      </div>
+    </section>
+  </section>
+<section class="container">
+  <div class="cards">
+    
+<div>
+  <img src="./farmer (1).png">
+  <h5>INPUTS</h5>
+  <small>Delivering best input deals to<br> farmers’ communities</small>
+</div>
+<div>
+    <img src="./farmer (1).png">
+    <h5>INPUTS</h5>
+    <small>Delivering best input deals to<br> farmers’ communities</small>
+  </div>
+  <div>
+    <img src="./farmer (1).png">
+    <h5>INPUTS</h5>
+    <small>Delivering best input deals to<br> farmers’ communities</small>
+  </div>
+  </div>
+</section>
+
+</body>
+</html>
